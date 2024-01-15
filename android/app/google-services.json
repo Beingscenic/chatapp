@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "1048203336403",
+    "project_id": "harshit-jan-project-2024",
+    "storage_bucket": "harshit-jan-project-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048203336403:android:391e43fd7857aad43a5226",
+        "android_client_info": {
+          "package_name": "com.example.crud_operation_using_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048203336403-bh8j2i9kvoops07acec0a5jfum59sd8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crud_operation_using_firebase",
+            "certificate_hash": "2e444095c385ad588b37f986424d53246333c008"
+          }
+        },
+        {
+          "client_id": "1048203336403-c3lj75ci7slu04fv5vjdaug76r8bd6di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeBkcsAPL-c37vkxAZ0QNO5BTpRU_Thbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048203336403-c3lj75ci7slu04fv5vjdaug76r8bd6di.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1048203336403-15tls0a4dh95fk07s2tn6tchfd2m1eu1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.friendzo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048203336403:android:cee3c013397304b83a5226",
+        "android_client_info": {
+          "package_name": "com.example.crud_operations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048203336403-c3lj75ci7slu04fv5vjdaug76r8bd6di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeBkcsAPL-c37vkxAZ0QNO5BTpRU_Thbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048203336403-c3lj75ci7slu04fv5vjdaug76r8bd6di.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1048203336403-15tls0a4dh95fk07s2tn6tchfd2m1eu1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.friendzo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048203336403:android:5bf58bf01038cb183a5226",
+        "android_client_info": {
+          "package_name": "com.example.friendzo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048203336403-7hsumfjb695a10khon461jok31o3bijj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.friendzo",
+            "certificate_hash": "2e444095c385ad588b37f986424d53246333c008"
+          }
+        },
+        {
+          "client_id": "1048203336403-c3lj75ci7slu04fv5vjdaug76r8bd6di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeBkcsAPL-c37vkxAZ0QNO5BTpRU_Thbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048203336403-c3lj75ci7slu04fv5vjdaug76r8bd6di.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1048203336403-15tls0a4dh95fk07s2tn6tchfd2m1eu1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.friendzo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
